@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thoriq-project
+- 👋 Hi, I’m Thoriq
 - 👀 I’m interested in mobile and website programming
 - 🌱 I’m currently learning on both
 
